@@ -1,0 +1,47 @@
+#border{
+    border: 0.05em solid black;
+    padding: 0.5em;
+}
+
+#top{
+    border: 0.05em solid black;
+}
+
+#job, #emplo{
+    border: 0.1em solid black; 
+}
+
+#ad{
+    background-color: yellow;
+    padding-right: 5em;
+    padding-bottom: 4.5em
+}
+
+#featured{
+    border-bottom: 0.1em solid black;
+}
+
+#box{
+    border: 0.05em solid black;
+    padding: 1.5em
+}
+#bord{
+    border: 0.05em solid black;
+    padding:0.5em;
+}
+
+table, #border{
+    padding: 0.5em
+}
+td{
+    border-bottom: 0.05em solid black; 
+}
+
+#emplo td, #col{
+    padding: 0.5em;
+    border-bottom: 0.1em solid white;
+}
+
+th{
+    border-bottom: 0.2em solid black; 
+}

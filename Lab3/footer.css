@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(196, 196, 196);
+}
+#menu{
+    background-color:orange;
+}
+
+
+h2 {
+    color:blue;
+    text-transform: uppercase;
+    text-align: center
+  }
+
+  u{
+      text-decoration-line: underline;
+      font-style: italic;
+      text-indent: 3em
+
+  }
+#para{
+    text-indent: 3em
+}
+
+#copy{
+    font-size: 0.8em;
+    text-align: center;
+    
+}
+
+p{
+    line-height: 1.5em
+}
